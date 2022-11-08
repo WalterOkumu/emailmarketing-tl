@@ -17,7 +17,7 @@ export default function Home() {
       </Head>
 
       <main className='pb-10'>
-        <div className='pt-8 md:h-screen px-10'>
+        <div className='pt-8 md:h-screen px-10 bg-[#181818]'>
           <Header />
           <Hero />
         </div>
